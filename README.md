@@ -1,2 +1,6 @@
-# ReceiveFileWithSocketInCSharp
-Receive File With Socket In C#
+# Receive File With Socket In C#
+
+
+دریافت فایل به همراه مشخصات از طریق سوکت در بسته های 1 مگابایتی با زبان سی شارپ
+
+
